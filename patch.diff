@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index 438918b..0a1c274 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# experience3
+\ No newline at end of file
++# experience3
++# 本次实验使用 GitHub 和 Sourcetree 完成仓库克隆、分支创建、代码提交、分支推送与合并操作。
+\ No newline at end of file
